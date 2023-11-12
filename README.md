@@ -1,10 +1,9 @@
 # Homelab
 
 Tenho um laptop antigo e queria dar um novo uso para ele, instalei Ubuntu Server como sua distribuição e Samba para conseguir compartilhar arquivos do meu PC principal para ele (Windows -> Linux), mantendo como um backup de arquivos. Assim posso acessar todos os arquivos do servidor em todos os dispositivos da minha rede, através do protocolo SMB/CIFS.
-. <br>
+<br>
 Além disso, instalei Docker no servidor para conseguir rodar alguns serviços:
 <br>
-.
 🐙 GitLab: Com o objetivo de aprender mais sobre CI/CD, o Gitlab me pareceu um serviço excelente para ter rodando no servidor. <br>
 🚫 Pi-hole: Para bloquear anúncios em toda rede, utilizei o Pi-hole como solução de DNS, adeus propagandas! <br>
 📷 PhotoPrism: Como meu Google Fotos já está com 80% de uso, decidi usar o Photoprism como alternativa, assim consigo acessar em todos meus dispositivos todas minhas fotos e meus vídeos.  <br>
